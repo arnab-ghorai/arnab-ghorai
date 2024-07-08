@@ -90,7 +90,10 @@ include Backend Development, focusing on Node.js, Express.js, and MongoDB.</p>
 </a>
 </div>
 
-### ⚡ Fun fact
+###   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="25" height="25"> Fun fact
+
 - Did you know? The first computer 'bug' was an actual bug! In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, causing a malfunction. She taped the moth into the logbook and labeled it 'First actual case of bug being found'
 
 ---
+
+
