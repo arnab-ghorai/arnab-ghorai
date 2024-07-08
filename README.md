@@ -8,7 +8,7 @@ include Backend Development, focusing on Node.js, Express.js, and MongoDB.</p>
 
 ### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/arnab-ghorai-171a082a5">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/arnab-ghorai-171a082a5">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ghorai&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ghorai" /> </p>
 
 ### 🔭 I'm currently working on
