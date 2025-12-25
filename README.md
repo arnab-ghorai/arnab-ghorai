@@ -83,7 +83,7 @@ include Backend Development, focusing on Node.js, Express.js, and MongoDB.</p>
 
 <a href="https://github.com/arnab-ghorai/">
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=arnab-ghorai)](https://github.com/arnab-ghorai)
+[![Arnab’s github stats](https://github-readme-stats.vercel.app/api?username=arnab-ghorai)](https://github.com/arnab-ghorai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-ghorai&layout=compact)](https://github.com/arnab-ghorai)
 
